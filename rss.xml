@@ -4,7 +4,7 @@
         <description><![CDATA[WaysOfSuccess]]></description>
         <link>https://thegrid.ai/waysofsuccess/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 03:13:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2016 03:19:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/waysofsuccess/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -29,10 +29,9 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Testing this out with a bunch of words to say</p>]]></description>
             <link>https://thegrid.ai/waysofsuccess/9cbf4c92-66ca-440f-b699-b5883c9e4f68/index.html</link>
             <guid isPermaLink="false">9cbf4c92-66ca-440f-b699-b5883c9e4f68</guid>
-            <pubDate>Thu, 03 Mar 2016 02:42:36 GMT</pubDate>
+            <pubDate>Thu, 03 Mar 2016 03:19:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
