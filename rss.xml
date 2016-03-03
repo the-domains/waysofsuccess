@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[WaysOfSuccess]]></title>
         <description><![CDATA[WaysOfSuccess]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/waysofsuccess/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 02:42:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 03 Mar 2016 02:42:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/waysofsuccess/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/990d2835-81b0-467f-908d-93477b4eba62.png">]]></description>
+            <link>https://thegrid.ai/waysofsuccess/c9fb14dd-37a0-4033-900c-354d4ae703b6/index.html</link>
+            <guid isPermaLink="false">c9fb14dd-37a0-4033-900c-354d4ae703b6</guid>
+            <pubDate>Thu, 03 Mar 2016 02:42:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Testing this out with a bunch of words to say</p>]]></description>
-            <link>undefined9cbf4c92-66ca-440f-b699-b5883c9e4f68/index.html</link>
+            <link>https://thegrid.ai/waysofsuccess/9cbf4c92-66ca-440f-b699-b5883c9e4f68/index.html</link>
             <guid isPermaLink="false">9cbf4c92-66ca-440f-b699-b5883c9e4f68</guid>
             <pubDate>Thu, 03 Mar 2016 02:42:36 GMT</pubDate>
         </item>
