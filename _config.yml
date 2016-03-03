@@ -1,7 +1,7 @@
 name: WaysOfSuccess
 favicon: null
-layout_spectrum: 0.8283706859219819
-typography_spectrum: 0.0571662113070488
+layout_spectrum: 0.50865
+typography_spectrum: 0.75858
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#677184'
-    - '#ffffff'
-    - '#404a60'
-    - '#afb3b9'
-    - '#121a27'
-  brandStrength: 0.7051355540752411
-  lightness: 0.7449865182861686
-  saturation: 0.21354689542204142
-  rhythmicContrast: 0.3475414542481303
+    - '#050505'
+    - '#e1e1e1'
+    - '#303030'
+    - '#b5b5b5'
+    - '#7d7d7d'
+  brandStrength: 0.125
+  lightness: 0.1875
+  saturation: 0.8125
+  rhythmicContrast: 0.75
 purpose: []
