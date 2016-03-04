@@ -1,7 +1,7 @@
 name: WaysOfSuccess
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.75858
+layout_spectrum: 0.13873
+typography_spectrum: 0.39097
 title: Learn about our Ways of Success
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#303030'
     - '#b5b5b5'
     - '#7d7d7d'
-  brandStrength: 0
-  lightness: 0.5
-  saturation: 0
-  rhythmicContrast: 1
+  brandStrength: 0.3125
+  lightness: 0.125
+  saturation: 0.625
+  rhythmicContrast: 0.25
 purpose: []
