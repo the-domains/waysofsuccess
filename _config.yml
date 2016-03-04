@@ -1,6 +1,6 @@
 name: WaysOfSuccess
 favicon: null
-layout_spectrum: 0.50865
+layout_spectrum: 0.24366
 typography_spectrum: 0.75858
 title: Learn about anything and everything
 cta:
@@ -22,8 +22,8 @@ color:
     - '#303030'
     - '#b5b5b5'
     - '#7d7d7d'
-  brandStrength: 0.125
-  lightness: 0.1875
-  saturation: 0.8125
-  rhythmicContrast: 0.75
+  brandStrength: 0
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
