@@ -1,7 +1,7 @@
 name: WaysOfSuccess
 favicon: null
-layout_spectrum: 0.13873
-typography_spectrum: 0.39097
+layout_spectrum: 0.49366
+typography_spectrum: 0.60493
 title: Learn about our Ways of Success
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#050505'
-    - '#e1e1e1'
-    - '#303030'
-    - '#b5b5b5'
-    - '#7d7d7d'
-  brandStrength: 0.3125
-  lightness: 0.125
-  saturation: 0.625
-  rhythmicContrast: 0.25
+    - '#ffffff'
+    - '#667884'
+    - '#202d33'
+    - '#cccfd4'
+    - '#eda20d'
+  brandStrength: 0.875
+  lightness: 0.25
+  saturation: 0.125
+  rhythmicContrast: 0.75
 purpose: []
